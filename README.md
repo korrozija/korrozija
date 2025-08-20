@@ -3,7 +3,7 @@
 ### 20 years old!
 ### I write and teach applications of programs, tg-bots and small games
 
-[C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+### [C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=korrozija&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korrozija&layout=compact)
 

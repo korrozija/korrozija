@@ -3,8 +3,8 @@
 ### 20 years old!
 ### I write and teach applications of programs, tg-bots and small games
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=korrozija&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korrozija&layout=compact)
 
 
 

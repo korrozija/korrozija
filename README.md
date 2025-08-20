@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there !
+#My name is Daniil!
+#20 years old!
+#I write and teach applications of programs, tg-bots and small games
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **korrozija/korrozija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

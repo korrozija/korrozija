@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=korrozija&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korrozija&layout=compact)
 
-![ㅤ]([https://ссылка-на-изображение.png](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zm9yZXN0JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww))
+![ㅤ]([[https://ссылка-на-изображение.png](https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zm9yZXN0JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww)](https://i.pinimg.com/1200x/84/e3/fa/84e3fa2774bc65c0c4c1d0b45bdad652.jpg))
 
 
 
